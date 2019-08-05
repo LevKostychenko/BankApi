@@ -1,0 +1,8 @@
+E:\Projects\BankApi\BankApi.Logic\bin\Debug\netstandard2.0\BankApi.Logic.deps.json
+E:\Projects\BankApi\BankApi.Logic\bin\Debug\netstandard2.0\BankApi.Logic.dll
+E:\Projects\BankApi\BankApi.Logic\bin\Debug\netstandard2.0\BankApi.Logic.pdb
+E:\Projects\BankApi\BankApi.Logic\obj\Debug\netstandard2.0\BankApi.Logic.csproj.CoreCompileInputs.cache
+E:\Projects\BankApi\BankApi.Logic\obj\Debug\netstandard2.0\BankApi.Logic.AssemblyInfoInputs.cache
+E:\Projects\BankApi\BankApi.Logic\obj\Debug\netstandard2.0\BankApi.Logic.AssemblyInfo.cs
+E:\Projects\BankApi\BankApi.Logic\obj\Debug\netstandard2.0\BankApi.Logic.dll
+E:\Projects\BankApi\BankApi.Logic\obj\Debug\netstandard2.0\BankApi.Logic.pdb

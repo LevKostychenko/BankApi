@@ -1,0 +1,9 @@
+E:\Projects\BankApi\BankApi.API\bin\Debug\netstandard2.0\BankApi.API.deps.json
+E:\Projects\BankApi\BankApi.API\bin\Debug\netstandard2.0\BankApi.API.dll
+E:\Projects\BankApi\BankApi.API\bin\Debug\netstandard2.0\BankApi.API.pdb
+E:\Projects\BankApi\BankApi.API\obj\Debug\netstandard2.0\BankApi.API.csprojAssemblyReference.cache
+E:\Projects\BankApi\BankApi.API\obj\Debug\netstandard2.0\BankApi.API.csproj.CoreCompileInputs.cache
+E:\Projects\BankApi\BankApi.API\obj\Debug\netstandard2.0\BankApi.API.AssemblyInfoInputs.cache
+E:\Projects\BankApi\BankApi.API\obj\Debug\netstandard2.0\BankApi.API.AssemblyInfo.cs
+E:\Projects\BankApi\BankApi.API\obj\Debug\netstandard2.0\BankApi.API.dll
+E:\Projects\BankApi\BankApi.API\obj\Debug\netstandard2.0\BankApi.API.pdb

@@ -1,0 +1,12 @@
+E:\Projects\BankApi\BankApi.Bootstraper\bin\Debug\netstandard2.0\BankApi.Bootstraper.deps.json
+E:\Projects\BankApi\BankApi.Bootstraper\bin\Debug\netstandard2.0\BankApi.Bootstraper.dll
+E:\Projects\BankApi\BankApi.Bootstraper\obj\Debug\netstandard2.0\BankApi.Bootstraper.csprojAssemblyReference.cache
+E:\Projects\BankApi\BankApi.Bootstraper\obj\Debug\netstandard2.0\BankApi.Bootstraper.csproj.CoreCompileInputs.cache
+E:\Projects\BankApi\BankApi.Bootstraper\obj\Debug\netstandard2.0\BankApi.Bootstraper.AssemblyInfoInputs.cache
+E:\Projects\BankApi\BankApi.Bootstraper\obj\Debug\netstandard2.0\BankApi.Bootstraper.AssemblyInfo.cs
+E:\Projects\BankApi\BankApi.Bootstraper\bin\Debug\netstandard2.0\BankApi.Bootstraper.pdb
+E:\Projects\BankApi\BankApi.Bootstraper\bin\Debug\netstandard2.0\BankApi.Logic.dll
+E:\Projects\BankApi\BankApi.Bootstraper\bin\Debug\netstandard2.0\BankApi.Logic.pdb
+E:\Projects\BankApi\BankApi.Bootstraper\obj\Debug\netstandard2.0\BankApi.Bootstraper.csproj.CopyComplete
+E:\Projects\BankApi\BankApi.Bootstraper\obj\Debug\netstandard2.0\BankApi.Bootstraper.dll
+E:\Projects\BankApi\BankApi.Bootstraper\obj\Debug\netstandard2.0\BankApi.Bootstraper.pdb
